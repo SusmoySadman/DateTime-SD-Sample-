@@ -1,0 +1,12 @@
+C:\Users\SUSMOY\Documents\Visual Studio 2010\Projects\Date\Date\bin\Debug\DateTime.mdf
+C:\Users\SUSMOY\Documents\Visual Studio 2010\Projects\Date\Date\bin\Debug\DateTime_log.ldf
+C:\Users\SUSMOY\Documents\Visual Studio 2010\Projects\Date\Date\bin\Debug\Date.exe
+C:\Users\SUSMOY\Documents\Visual Studio 2010\Projects\Date\Date\bin\Debug\Date.pdb
+C:\Users\SUSMOY\Documents\Visual Studio 2010\Projects\Date\Date\obj\x86\Debug\Date.csprojResolveAssemblyReference.cache
+C:\Users\SUSMOY\Documents\Visual Studio 2010\Projects\Date\Date\obj\x86\Debug\Date.Form1.resources
+C:\Users\SUSMOY\Documents\Visual Studio 2010\Projects\Date\Date\obj\x86\Debug\Date.Properties.Resources.resources
+C:\Users\SUSMOY\Documents\Visual Studio 2010\Projects\Date\Date\obj\x86\Debug\Date.csproj.GenerateResource.Cache
+C:\Users\SUSMOY\Documents\Visual Studio 2010\Projects\Date\Date\obj\x86\Debug\Date.exe
+C:\Users\SUSMOY\Documents\Visual Studio 2010\Projects\Date\Date\obj\x86\Debug\Date.pdb
+C:\Users\SUSMOY\Desktop\Date\Date\obj\x86\Debug\Date.exe
+C:\Users\SUSMOY\Desktop\Date\Date\obj\x86\Debug\Date.pdb
